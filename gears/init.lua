@@ -1,3 +1,5 @@
+---@meta
+
 local gears = {}
 
 gears.object = require('gears.object')

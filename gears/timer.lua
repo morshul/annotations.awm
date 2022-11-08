@@ -1,3 +1,5 @@
+---@meta
+
 ---@class gears.timer.TimerDescriptor
 ---@field timeout number The timeout in seconds.
 ---@field autostart? boolean Whether the timer should be started automatically. Default is `false`.

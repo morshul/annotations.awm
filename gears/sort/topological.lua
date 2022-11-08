@@ -1,3 +1,5 @@
+---@meta
+
 ---A topological sorting class.
 ---
 ---The object returned by this function allows to create simple dependency graphs.

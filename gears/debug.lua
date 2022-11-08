@@ -1,3 +1,5 @@
+---@meta
+
 ---@class gears.debug.DeprecateDescriptor
 ---@field raw boolean If true, the deprecation message will not be formatted.
 ---@field deprecated_in integer The version in which the function was deprecated.

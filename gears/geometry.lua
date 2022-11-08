@@ -1,3 +1,5 @@
+---@meta
+
 ---@class gears.geometry.Rectangle
 ---@field x number The X coordinate of the rectangle.
 ---@field y number The Y coordinate of the rectangle.

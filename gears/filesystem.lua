@@ -1,3 +1,5 @@
+---@meta
+
 local filesystem = {}
 
 ---Create a directory, including all missing parent directories.

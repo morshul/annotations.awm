@@ -1,3 +1,5 @@
+---@meta
+
 local stringify = {}
 
 ---Escape a string from XML char. Useful to set raw text in textbox.

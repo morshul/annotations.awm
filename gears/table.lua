@@ -1,3 +1,5 @@
+---@meta
+
 local collections = {}
 
 ---Join all tables given as arguments.

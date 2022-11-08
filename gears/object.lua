@@ -1,3 +1,5 @@
+---@meta
+
 ---@class gears.object.ObjectDescriptor The arguments. Default is `{}`.
 ---@field enable_properties? boolean Automatically call getters and setters. Default is `false`.
 ---@field enable_auto_signals? boolean Generate `property::xxxx` signals when an unknown property is set. Default is `false`.

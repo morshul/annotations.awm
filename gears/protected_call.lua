@@ -1,3 +1,5 @@
+---@meta
+
 ---Call a function in protected mode and handle error-reporting.
 ---If the function call succeeds, all results of the function are returned.
 ---Otherwise, an error message is printed and nothing is returned.

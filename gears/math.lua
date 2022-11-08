@@ -1,3 +1,5 @@
+---@meta
+
 local mathematics = {}
 
 ---Return all subsets of a specific set.
